@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rejay0707
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on full stack development
+  
 
 
 <!---
